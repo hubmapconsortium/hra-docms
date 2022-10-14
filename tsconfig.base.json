@@ -15,8 +15,12 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@docms/api-interfaces": ["libs/api-interfaces/src/index.ts"],
       "@docms/components/atoms": ["libs/components/atoms/src/index.ts"],
-      "@docms/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@docms/components/behaviors": ["libs/components/behaviors/src/index.ts"],
+      "@docms/components/molecules": ["libs/components/molecules/src/index.ts"],
+      "@docms/components/organisms": ["libs/components/organisms/src/index.ts"],
+      "@docms/components/pages": ["libs/components/pages/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
