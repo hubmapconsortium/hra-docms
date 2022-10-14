@@ -1,6 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 
-import { Message } from '@hra-docms1/api-interfaces';
+import { Message } from '@hra-docms/api-interfaces';
 
 import { AppService } from './app.service';
 

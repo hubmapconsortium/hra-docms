@@ -21,7 +21,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "hra-docms1",
+            "prefix": "hra-docms",
             "style": "kebab-case"
           }
         ]
