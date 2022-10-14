@@ -20,7 +20,9 @@
       "@docms/components/behaviors": ["libs/components/behaviors/src/index.ts"],
       "@docms/components/molecules": ["libs/components/molecules/src/index.ts"],
       "@docms/components/organisms": ["libs/components/organisms/src/index.ts"],
-      "@docms/components/pages": ["libs/components/pages/src/index.ts"]
+      "@docms/components/pages": ["libs/components/pages/src/index.ts"],
+      "@docms/services": ["libs/services/src/index.ts"],
+      "@docms/states": ["libs/states/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
