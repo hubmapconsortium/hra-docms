@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Message } from '@hra-docms/api-interfaces';
+import { Message } from '@docms/api-interfaces';
 
 @Component({
   selector: 'hra-docms-root',

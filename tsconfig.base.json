@@ -16,7 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@docms/components/atoms": ["libs/components/atoms/src/index.ts"],
-      "@hra-docms/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@docms/api-interfaces": ["libs/api-interfaces/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
